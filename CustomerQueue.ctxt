@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CustomerQueue
+comment0.text=\n\ Write\ a\ description\ of\ class\ CustomerQueue\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=CustomerQueue()
+comment2.params=arr
+comment2.target=CustomerQueue(java.util.ArrayList)
+comment3.params=c
+comment3.target=boolean\ add(Customer)
+comment4.params=
+comment4.target=Customer\ pop()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+numComments=6

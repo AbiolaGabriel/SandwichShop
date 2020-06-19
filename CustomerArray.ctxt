@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CustomerArray
+comment0.text=\n\ Write\ a\ description\ of\ class\ CustomerArray\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=length
+comment1.target=CustomerArray(int)
+comment2.params=c
+comment2.target=boolean\ add(Customer)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=Customer\ pop()
+numComments=5
